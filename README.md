@@ -9,7 +9,7 @@ Self-Consistency LLM is a lightweight command-line tool that sends a single user
 3. Each provider returns an answer.
 4. A judging step evaluates the collected responses and produces a final verdict with a winner, reason, and best answer.
 
-## CLI-based or UI-based
+## CLI-based
 
 This project is completely CLI-based. It runs from the terminal and prompts the user for input directly in the console.
 
